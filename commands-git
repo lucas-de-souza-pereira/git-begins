@@ -1,0 +1,4 @@
+git clone https://github.com/lucas-de-souza-pereira/git-begins.git
+git add .
+git commit -m ""
+git push
