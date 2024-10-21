@@ -3,3 +3,4 @@ git add .
 git commit -m ""
 git push
 git pull
+git command git checkout -b <nom-branche> ou git branch
